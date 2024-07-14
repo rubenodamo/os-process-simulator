@@ -39,7 +39,7 @@ The following data structures  required:
 - I/O queues (one per device, implemented as linked lists)
 - Terminated queue (implemented as a linked list)
 
-## Compilation and Execution
+## Compilation and Execution [^fn]
 
 To compile your code:
 ```sh
@@ -66,3 +66,5 @@ To run your code:
 10. **Load Balancing** (`simulator10.c`)
 
 Each stage builds on the previous, adding more complexity and functionality to the simulator.
+
+[^fn]: *Please note the project was compiled and run remotely on a Linux virtual desktop.*
