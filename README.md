@@ -1,6 +1,6 @@
 # OS Process Simulator Implementation
 
-This project is an implementation of a process simulator using the POSIX API on Linux. The goal is to simulate various aspects of an operating system, including process creation, scheduling, and termination, utilizing concurrency techniques. The simulator is structured in multiple stages, gradually increasing in complexity and functionality.
+This project is an implementation of a process simulator using the POSIX API on Linux. The goal is to simulate various aspects of an operating system, including process creation, scheduling, and termination, utilising concurrency techniques. The simulator is structured in multiple stages, gradually increasing in complexity and functionality.
 
 ## Table of Contents
 
